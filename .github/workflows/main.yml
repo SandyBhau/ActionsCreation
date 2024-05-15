@@ -19,7 +19,7 @@ jobs:
       - name: Push Repo
         run: 
            git config user.name github-acions
-           git config user.email sandeshbharitkar24@gmail.com
+           git config user.email github-acions@gihub.com
            git add .
            git commit -m "Modified Feed"
            git push
